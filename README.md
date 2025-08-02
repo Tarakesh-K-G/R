@@ -1,2 +1,2 @@
-# R
+# Command Line
 Script
